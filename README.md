@@ -10,9 +10,9 @@ Track water, sleep, movement and mindfulness. Watch streaks grow, see consistenc
 - Demo login: `demo@pulse.app` / `demo123`
 
 ## Screenshots
-![Landing](docs/landing.png)
-![Today](docs/today.png)
-![Insights](docs/insights.png)
+![Landing](landing.png)
+![Habbits](habbits.png)
+![Insights](insights.png)
 
 ## Highlights
 - Sign up and sign in with hashed passwords (bcrypt) and signed JWT sessions; every query is scoped to the signed-in user
